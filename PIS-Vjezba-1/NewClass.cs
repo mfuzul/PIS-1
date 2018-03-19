@@ -7,5 +7,6 @@ namespace PIS_Vjezba_1
 {
     class NewClass
     {
+        public function gitFunckija() {}
     }
 }
