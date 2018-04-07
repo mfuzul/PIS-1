@@ -9,7 +9,7 @@ namespace PIS_Vjezba_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!");	//program prints out "Hello World"
         }
     }
 }
